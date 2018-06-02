@@ -1,0 +1,41 @@
+.form-inline .my-2 .my-lg-0 {
+    color: white;
+}
+
+.btn .btn-outline-success .my-2 .my-sm-0 {
+    color: white !important;
+}
+
+.ChiSiamo .container {
+    font-family: fantasy, cursive, serif, sans-serif;
+    display: inline-block;
+}
+
+.margine {
+    margin-bottom: 40px;
+}
+
+.titolo {
+    text-align: center;
+    font-family: fantasy, cursive, serif, sans-serif;
+}
+
+.foto {
+    display: inline !important;
+}
+
+.immagine {
+    width: 220px;
+    height: 210px;
+    border: 2px solid black;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
+
+#cursore .active .nav-link {
+    cursor: default;
+}
+
+.dropdown-item .active #cursore {
+    cursor: default;
+}
