@@ -35,7 +35,3 @@
 #cursore .active .nav-link {
     cursor: default;
 }
-
-.dropdown-item .active #cursore {
-    cursor: default;
-}
